@@ -13,7 +13,6 @@ const navBar = () => {
         <li>HOME</li>
       </ul>
 
-
     </div>
 
    
