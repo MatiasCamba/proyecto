@@ -4,16 +4,18 @@ const navBar = () => {
   return (
    
     <div>
-    <li>
-        <ul>
-            inicio
-        </ul>
-    </li>
-
+      <ul>
+        <li>HOME</li>
+        <li>HOME</li>
+        <li>HOME</li>
+        <li>HOME</li>
+        <li>HOME</li>
+        <li>HOME</li>
+      </ul>
 
 
     </div>
-    
+
    
    
   )
