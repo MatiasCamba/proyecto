@@ -4,15 +4,17 @@ const navBar = () => {
   return (
    
     <div>
-    <li>
-        <ul>
-            inicio
-        </ul>
-        <ul>galeria</ul>
-        <ul>contacto</ul>
-        <ul>sobre nosotros</ul>contacto
-    </li>
+      <ul>
+        <li>HOME</li>
+        <li>HOME</li>
+        <li>HOME</li>
+        <li>HOME</li>
+        <li>HOME</li>
+        <li>HOME</li>
+      </ul>
+
     </div>
+
    
    
   )
