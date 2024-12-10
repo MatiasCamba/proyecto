@@ -1,9 +1,10 @@
 import React from "react";
 
 const registerForm = () => {
+  //comentario
   return (
     <div>
-      <label htmlFor=""></label>
+      <label htmlFor="">Buenas a todos</label>
       <input type="text" />
       <label htmlFor=""></label>
       <input type="text" />
