@@ -1,7 +1,9 @@
 import React from "react";
+import { useState } from "react";
 
 const registerForm = () => {
-  //comentario
+
+
   return (
     <div>
       <label htmlFor="">Buenas a todos</label>
@@ -13,6 +15,7 @@ const registerForm = () => {
       <label htmlFor=""></label>
       <input type="text" />
       <button>Enviar</button>
+      <button>No enviar</button>
     </div>
   );
 };
